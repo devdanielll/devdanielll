@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Daniel @devdanielll
-- 👀 Estou interessado em Java, JS, React.
+- 👀 Estou interessado Python.
 - 🌱 Estou cursando atualmente Analise e Desenvolvimento de Sistemas.
-- 💞️ Gostaria de colaborar com projetos de JS, Java.
+- 💞️ Gostaria de colaborar com projetos de Python.
 
 <!---
 devdanielll/devdanielll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
