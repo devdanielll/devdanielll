@@ -15,8 +15,8 @@
   <a href="https://www.instagram.com/damdann_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniellucassantos97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- <div align="center">
- <img height="180em" src="https://i.giphy.com/media/132hKNca5YBgCk/giphy.webp">
+ <div align="left">
+ <img height="120em" src="https://cdn.discordapp.com/attachments/829944330268966943/951473252939747418/2iiJ.gif">
  </div>
  
 </div>
