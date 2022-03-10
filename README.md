@@ -14,8 +14,9 @@
  
   <a href="https://www.instagram.com/damdann_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "daniellucassantos97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
  
-  ![Gatinho cheq](https://i.giphy.com/media/132hKNca5YBgCk/giphy.webp)
+ <div align="center">
+ <img height="180em" src="https://i.giphy.com/media/132hKNca5YBgCk/giphy.webp">
+ </div>
  
 </div>
