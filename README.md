@@ -16,6 +16,6 @@
   <a href = "daniellucassantos97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://i.giphy.com/media/kgo9KtvX2dCVudr645/giphy.webp)
+  ![Gatinho cheq](https://i.giphy.com/media/132hKNca5YBgCk/giphy.webp)
  
 </div>
