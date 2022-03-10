@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Daniel.
-- 👀 Estou interessado Python.
+- 👀 Estou interessado em Python.
 - 🌱 Estou cursando atualmente Analise e Desenvolvimento de Sistemas.
 - 💞️ Gostaria de colaborar com projetos de Python.
 
