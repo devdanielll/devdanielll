@@ -6,8 +6,7 @@
  <div align="center">
   <a href="https://github.com/devdanielll">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=devdanielll&show_icons=true&theme=dark&include_all_commits=true&count_private=true"//>
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908101722096943104/946125087516545084/eren_midia.png">
+  <img align="right" alt="teste" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908101722096943104/946125087516545084/eren_midia.png">
 </div>
   
   ##
