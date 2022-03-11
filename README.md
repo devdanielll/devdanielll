@@ -18,5 +18,5 @@
   <a href = "mailto:daniellucassantos97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  <div align="left">
- <img height="120em" src="https://cdn.discordapp.com/attachments/829944330268966943/951473252939747418/2iiJ.gif">
+ <img height="120em" src="https://cdn.discordapp.com/attachments/829944330268966943/951938625598267513/ddghjn9-d7362794-7f82-47cc-b350-d72f548ed287.gif">
  </div>
