@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Daniel.
 - 👀 Estou interessado em Python, JavaScript
-- 🌱 Estou cursando atualmente Analise e Desenvolvimento de Sistemas.
-- 💞️ Gostaria de colaborar com projetos de Python.
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas (tecnologo).
+- 💞️ Gostaria de colaborar com projetos de Python & JS.
 
 <div align="center">
   <a href="https://github.com/Kledzeraaa">
