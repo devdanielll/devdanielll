@@ -1,7 +1,4 @@
-- 👋 Olá, me chamo Daniel.
-- 👀 Estou interessado em Python, JavaScript
-- 🌱 Formado em Analise e Desenvolvimento de Sistemas (tecnologo).
-- 💞️ Gostaria de colaborar com projetos de Python & JS.
+- 👋 Hello, my name is Daniel..
 
 <div align="center">
   <a href="https://github.com/Kledzeraaa">
